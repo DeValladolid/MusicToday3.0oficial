@@ -109,7 +109,7 @@
         <!--use your own api key for fabric-->
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="@string/fabric_api_key" />
+            android:value="fd31fe2fc38635a8060d4e5447da02c2614c125c" />
 
         <receiver android:name="com.devalladolid.musictoday.widgets.desktop.StandardWidget" android:label="@string/widget_standard">
             <intent-filter>
