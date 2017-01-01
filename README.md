@@ -1,5 +1,5 @@
 # Timber
-[![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber)
+[![Build Status](https://travis-ci.org/DeValladolid/MusicTodayApp.svg?branch=master)](https://travis-ci.org/DeValladolid/MusicTodayApp)
 
 [WIP][BETA]-Material Design Music Player
 
